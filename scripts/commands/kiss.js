@@ -3,7 +3,7 @@ module.exports.config = {
   version: "2.0.0",
   permission: 0, // Corrected spelling
   prefix: true,
-  credits: "Clarence DK",
+  credits: "kqbbo DK",
   description: "Generates a kiss image",
   category: "img",
   usage: "[@mention]",
